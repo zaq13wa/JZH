@@ -1,6 +1,6 @@
 ﻿# Host: localhost  (Version: 5.5.53)
 # Date: 2017-09-26 01:54:55
-# Generator: MySQL-Front 5.3  (Build 4.234)
+# Generator: MySQL-Front 5.3  (Build 4.234)351615
 
 /*!40101 SET NAMES utf8 */;
 
